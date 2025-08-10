@@ -72,8 +72,3 @@ The following API keys may be needed:
 - **FAISS**: For efficient embedding storage and retrieval.
 - **Ollama, OpenAI, Groq**: For embedding and LLM services.
 
-
-
-Thanks
-
-Enjoy Coding
